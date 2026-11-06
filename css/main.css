@@ -3,9 +3,13 @@ header { background: #101826; color: #f2f0ea; padding: 40px 24px; text-align: ce
 header h1 { margin: 0; font-size: 40px; } 
 header p { margin: 8px 0 0; color: #f9a27e; } 
 main { max-width: 760px; margin: 32px auto; padding: 0 16px; } 
-section { background: #ffffff; border-radius: 12px; padding: 20px 28px; margin-bottom: 20px; } 
-h2 { color: #b8401f; margin-top: 0; } 
-code { background: #0e1525; color: #7dd3a0; padding: 4px 10px; border-radius: 6px; }
+section { background: #ffffff; border-radius: 12px; padding: 20px 28px; margin-bottom: 20px;border-left: 6px solid #f9a27e; } 
+
+h2 {
+    color: #1d4ed8;
+    margin-top: 0;
+}
+code { background: #0e1525; color: #7dd3a0; padding: 4px 10px; border-radius: 6px; font-size: 14px; }
 footer { text-align: center; padding: 24px; color: 
 #6b7280; }
 section:hover { box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12); }body { background: red; }
