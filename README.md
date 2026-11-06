@@ -1,3 +1,2 @@
-# Aprendiendo Git
-Bitácora del curso de Git y GitHub.
-Hola soy Bayardo Montes
+# Proyecto-CI
+Nota: bitácora del curso de Git; cada sección documenta una técnica.
