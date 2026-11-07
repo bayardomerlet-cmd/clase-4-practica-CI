@@ -9,3 +9,9 @@ code { background: #0e1525; color: #7dd3a0; padding: 4px 10px; border-radius: 6p
 footer { text-align: center; padding: 24px; color: 
 #6b7280; }
 section:hover { box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12); }body { background: white; }
+h1 {
+    letter-spacing: 1px;
+}
+footer p {
+    font-size: 14px;
+}
