@@ -8,3 +8,4 @@ temp/
 .DS_Store 
 Thumbs.db
 !README.md
+!gitignore
